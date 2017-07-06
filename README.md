@@ -1,4 +1,4 @@
-# refactor4
+# Refactor4
 ### Extract class
 Bad
 ```
